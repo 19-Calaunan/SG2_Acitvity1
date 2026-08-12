@@ -1,11 +1,11 @@
-For steps 3-4 click on this link: [SG2_Activity1.md](https://github.com/user-attachments/files/30982288/SG2_Activity1.md)
-
+For step 3 click on this link: [SG2_Activity_1.docx](https://github.com/user-attachments/files/30983658/SG2_Activity_1.docx)
+   
 Annex A
 Computational Thinking Exercise: "Smart School Canteen Queue"
 
 
 Section: 9-Arayat                                     Score:____________
-C# / Name: #19, #20, #21                     Date: 08/12/26              
+C# / Name: #19, #20, #21                              Date: 08/12/26              
 Scenario
 
 The PSHS school canteen is small and often gets crowded during lunch break. Students line up to buy food, but the process is slow because:
@@ -27,3 +27,25 @@ Please list possible sub-problems:
 
 Step 3: Define Computational Thinking Approaches 
 For each sub-problem, apply CT skills:
+
+Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
+Chosen Problem: Sub-problem 1
+
+START 
+   Display "Today's Menu (Main Dishes & Prices)" 
+   Student approaches menu board 
+
+REPEAT 
+    Student reads menu items and prices 
+    Student selects desired item 
+
+Display “Are you sure about your order?”
+Input student_decision (yes/no)
+
+UNTIL student_decision == “yes”
+
+Display “Decision finalized, proceed to queue.”
+Student enters the queue line ready to order
+END
+
+
