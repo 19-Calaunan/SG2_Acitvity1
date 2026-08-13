@@ -1,5 +1,3 @@
-For step 3 click on this link: [SG2_Activity_1.docx](https://github.com/user-attachments/files/30983658/SG2_Activity_1.docx)
-   
 Annex A
 Computational Thinking Exercise: "Smart School Canteen Queue"
 
@@ -27,6 +25,7 @@ Please list possible sub-problems:
 
 Step 3: Define Computational Thinking Approaches 
 For each sub-problem, apply CT skills:
+Step_3_table.png
 
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
 Chosen Problem: Sub-problem 1
