@@ -25,7 +25,7 @@ Please list possible sub-problems:
 
 Step 3: Define Computational Thinking Approaches 
 For each sub-problem, apply CT skills:
-Step_3_table.png
+![Thinking Table](Step_3_table.png)
 
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
 Chosen Problem: Sub-problem 1
